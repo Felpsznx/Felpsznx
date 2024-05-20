@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🇧🇷
 
-<!--
-**Felpsznx/Felpsznx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou felipe , estudante de programacao 
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma , [Alura](https://cursos.alura.com.br)
+- EStou desenvolvendo a linguagem JavaScrip
+- Utilizo esse espaco para minha organizaçao e compartilhamento dos meus projetos desenvolvidos !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Voce pode entrar em contato comigo 📫
+
+00001096947092sp@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/luffy-gear-5-gear-5-gear-five-luffy-white-hair-luffy-white-hair-gear-5-gif-4892753104589499237)
